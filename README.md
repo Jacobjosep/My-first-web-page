@@ -13,7 +13,7 @@ A feature-rich, web-based scientific calculator with a beautiful modern UI, supp
 
 ## ✨ Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Calculator-2ea44f?style=for-the-badge&logo=github-pages)](https://yourusername.github.io/scientific-calculator)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Calculator-2ea44f?style=for-the-badge&logo=github-pages)](https://jacobjosep.github.io/my-first-web-page)
 
 ## 📋 Table of Contents
 
@@ -124,6 +124,6 @@ Bitwise operations and number base conversions:
 
 ### Method 2: Clone Repository
 ```bash
-git clone https://github.com/yourusername/scientific-calculator.git
+git clone https://github.com/jacobjoseph/my-first-web-page.git
 cd scientific-calculator
 open scientific-calculator.html
