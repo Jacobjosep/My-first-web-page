@@ -13,7 +13,7 @@ A feature-rich, web-based scientific calculator with a beautiful modern UI, supp
 
 ## ✨ Live Demo
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Calculator-2ea44f?style=for-the-badge&logo=github-pages)](https://jacobjosep.github.io/my_first_web_page)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-View_Calculator-2ea44f?style=for-the-badge&logo=github-pages)](https://jacobjosep.github.io/my first web page)
 
 ## 📋 Table of Contents
 
